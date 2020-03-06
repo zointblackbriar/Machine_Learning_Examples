@@ -69,12 +69,12 @@
   </p>
 </p> -->
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/zointblackbriar/Machine_Learning_Examples/blob/master/RLE_Encode/results/Screenshot_from_2020-03-06_18-55-42.png)
+![alt text](https://github.com/zointblackbriar/Machine_Learning_Examples/blob/master/RLE_Encode/results/Screenshot_from_2020-03-06_18-57-59.png)
+![alt text](https://github.com/zointblackbriar/Machine_Learning_Examples/blob/master/RLE_Encode/results/Screenshot_from_2020-03-06_19-05-20.png)
+![alt text](https://github.com/zointblackbriar/Machine_Learning_Examples/blob/master/RLE_Encode/results/Screenshot_from_2020-03-06_19-08-31.png)
+![alt text](https://github.com/zointblackbriar/Machine_Learning_Examples/blob/master/RLE_Encode/results/Screenshot_from_2020-03-06_19-09-57.png)
+![alt text](https://github.com/zointblackbriar/Machine_Learning_Examples/blob/master/RLE_Encode/results/Screenshot_from_2020-03-06_19-42-24.png)
 
 
 
