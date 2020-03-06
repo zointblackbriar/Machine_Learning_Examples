@@ -91,8 +91,8 @@
 ## About The Project
 This is a small project for the remote sensing. Images have been trained with train dataset and dataset has been taken from the following link. Basically, the application finds the vessels from aerial images which have size of 31,4 GB.
 
-  <a href="https://www.kaggle.com/c/airbus-ship-detection/data">
-  </a>
+[a link](https://www.kaggle.com/c/airbus-ship-detection/data)
+
 
 <!-- A test project for remote sensing
 
