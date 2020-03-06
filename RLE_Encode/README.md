@@ -71,9 +71,9 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+<!-- ## Table of Contents -->
 
-* [About the Project](#about-the-project)
+<!-- * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -83,12 +83,17 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements) -->
+* [Acknowledgements](#acknowledgements)  -->
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This is a small project for the remote sensing. Images have been trained with train dataset and dataset has been taken from the following link. Basically, the application finds the vessels from aerial images which have size of 31,4 GB.
+
+  <a href="https://www.kaggle.com/c/airbus-ship-detection/data">
+  </a>
+
 <!-- A test project for remote sensing
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -104,7 +109,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements. -->
 
-### Built With
+<!-- ### Built With -->
 <!-- This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
@@ -113,7 +118,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started -->
 
 <!-- This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps. -->
@@ -121,10 +126,15 @@ To get a local copy up and running follow these simple example steps. -->
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip3 version
 ```sh
-npm install npm@latest -g
+pip 9.0.1 from /usr/lib/python3/dist-packages (python 3.6)
 ```
+* python3 version
+```sh
+Python 3.6.8
+```
+
 
 ### Installation
 
